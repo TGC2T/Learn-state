@@ -1,5 +1,1 @@
-{ "id": "stellar-dash", "title": "Stellar Dash", "description": "High-speed orbital racer.", "folder": "stellar-dash", "cover": "cover.png" },
-
-{ "id": "neon-void", "title": "Neon Void", "description": "Minimalist puzzle strategy.", "folder": "neon-void", "cover": "cover.jpg" }, 
-
-{ "id": "liquid-flow", "title": "Liquid Flow", "description": "Physics-based fluid sim.", "folder": "liquid-flow", "cover": "thumbnail.png" }
+{ "id": "2048", "title": "2048", "description": "combine number blocks to get to 2048.", "folder": "2048", "cover": "apple-touch-icon.png" }
