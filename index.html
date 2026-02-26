@@ -291,9 +291,9 @@
                 games.forEach(game => {
                     // Create Paths based on your requested structure
                     // Path to the HTML file: games/folder-name/working game/index.html
-                    const gameUrl = `games/${game.folder}/working game/index.html`;
+                    const gameUrl = `games/${game.folder}/game/index.html`;
                     // Path to the cover image: games/folder-name/metadata folder/cover.png
-                    const coverUrl = `games/${game.folder}/metadata folder/${game.cover}`;
+                    const coverUrl = `games/${game.folder}/metadata/${game.cover}`;
 
                     const gameCard = document.createElement('div');
                     gameCard.className = 'glass-card p-5 group';
