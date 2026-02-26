@@ -1,0 +1,5 @@
+{ "id": "stellar-dash", "title": "Stellar Dash", "description": "High-speed orbital racer.", "folder": "stellar-dash", "cover": "cover.png" },
+
+{ "id": "neon-void", "title": "Neon Void", "description": "Minimalist puzzle strategy.", "folder": "neon-void", "cover": "cover.jpg" }, 
+
+{ "id": "liquid-flow", "title": "Liquid Flow", "description": "Physics-based fluid sim.", "folder": "liquid-flow", "cover": "thumbnail.png" }
