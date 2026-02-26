@@ -1,1 +1,9 @@
-{ "id": "2048", "title": "2048", "description": "combine number blocks to get to 2048.", "folder": "2048", "cover": "apple-touch-icon.png" }
+[
+  { 
+    "id": "2048", 
+    "title": "2048", 
+    "description": "combine number blocks to get to 2048.", 
+    "folder": "2048", 
+    "cover": "apple-touch-icon.png" 
+  }
+]
